@@ -14,6 +14,8 @@ Admin
 As a manager  I want to make it easier for people around the world to find partner of their choice online inrespective of their locations.
 As an admin i would make sure anyone who is going to use my website provide a piece of their ID to prevents scammers from using the site.
 
+Figma Design
+https://www.figma.com/file/ukEn6Kzq7DvYudOSCiYfLc/Untitled?type=design&node-id=3%3A18&mode=design&t=KR4GMcq8amDQgSlF-1
 
 figma Design
 https://www.figma.com/file/ukEn6Kzq7DvYudOSCiYfLc/Untitled?type=design&node-id=3%3A18&mode=design&t=KR4GMcq8amDQgSlF-1

@@ -14,7 +14,7 @@ Admin
 As a manager, I want the capability to remove and restrict user profiles so that I can prevent fake users from engaging with others.
 
 Figma Design
-https://www.figma.com/file/6tXvRMGiyvpMvGpQg6ovIn/MY-SITE-HOME-PAGE?type=design&node-id=0%3A1&mode=design&t=sZ6sNETJ7vmyrlW4-1
+https://www.figma.com/file/6tXvRMGiyvpMvGpQg6ovIn/MY-SITE-HOME-PAGE?type=design&node-id=0%3A1&mode=design&t=OLHt62CaZxsXVW2z-1
 
 
 

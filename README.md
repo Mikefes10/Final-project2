@@ -1,24 +1,20 @@
  ABOUT US
 
  
- MIKEFES Dating Site is a site bringing together singles from around the world looking for along term partner. we offer friendly service. 
+ MIKEFES Dating Site is a site bringing together singles from around the world looking for a long-term partner. we offer friendly service. 
  
  User Stories
 
  
 Main USer
-As a user of a dating Site, i want to be able to filter potential matches based on their relationship status so thst i can find people who are looking for the same kind of relationship as me.
-As a user i want to know people who are online from people who are offline so that i can avoid waisting my time messaging people who are not online.
+As a user of a dating site, I want to be able to filter potential matches based on their relationship status so that I can find people who are looking for the same kind of relationship as me.
+As a user, I want to know people who are online from people who are offline so that I can avoid wasting my time messaging people who are not online.
 
 Admin
-As a manager  I want to make it easier for people around the world to find partner of their choice online inrespective of their locations.
-As an admin i would make sure anyone who is going to use my website provide a piece of their ID to prevents scammers from using the site.
+As a manager, I want the capability to remove and restrict user profiles so that I can prevent fake users from engaging with others.
 
 Figma Design
-https://www.figma.com/file/ukEn6Kzq7DvYudOSCiYfLc/Untitled?type=design&node-id=3%3A18&mode=design&t=KR4GMcq8amDQgSlF-1
-
-figma Design
-https://www.figma.com/file/ukEn6Kzq7DvYudOSCiYfLc/Untitled?type=design&node-id=3%3A18&mode=design&t=KR4GMcq8amDQgSlF-1
+https://www.figma.com/file/6tXvRMGiyvpMvGpQg6ovIn/Untitled?type=design&node-id=0%3A1&mode=design&t=gV8pRhMfLOSU45j4-1
 
 
 
